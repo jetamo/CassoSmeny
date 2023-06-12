@@ -1,0 +1,5 @@
+bibi 8 7 O
+jitka 8 8 N
+pavlik 10 6 D
+ivana 0 10 O
+katka 5 0 O
